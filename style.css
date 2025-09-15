@@ -9,3 +9,19 @@ body {
   color:white;
   background:blue;
 }
+
+section {
+background: rgb (010, 101, 001);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
+}
+
+
+no index.html - criar classes
+<div class="chamada-texto>
